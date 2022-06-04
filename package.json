@@ -1,0 +1,19 @@
+{
+  "name": "api-movie-platzi",
+  "version": "1.0.0",
+  "description": "mi segunda pruba con api rest usando axios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yf2405/api-movie-platzi.git"
+  },
+  "author": "@yerson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yf2405/api-movie-platzi/issues"
+  },
+  "homepage": "https://github.com/yf2405/api-movie-platzi#readme"
+}
